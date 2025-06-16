@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =0
+let g:netrw_dirhist_0='/srv/gaps/gaps-online-software/dataclasses/rust/dataclasses/src/packets'
+let g:netrw_dirhist_9='/srv/gaps/gaps-online-software/tof/dataclasses/rust/tof-dataclasses/.idea'
+let g:netrw_dirhist_8='/srv/gaps/gaps-online-software/tof/dataclasses/rust/tof-dataclasses'
+let g:netrw_dirhist_7='/srv/gaps/gaps-online-software/processing/merge_tcfc'
+let g:netrw_dirhist_6='/home/achim/config/zsh-config'
+let g:netrw_dirhist_5='/home/achim/config'
+let g:netrw_dirhist_4='/home/achim/git-repos/checkouts/RedDawnGreenDuskBlueLight'
+let g:netrw_dirhist_3='/home/achim/git-repos/checkouts'
+let g:netrw_dirhist_2='/home/achim/foo'
+let g:netrw_dirhist_1='/home/achim/.zshplugins'

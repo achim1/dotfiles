@@ -1,0 +1,13 @@
+90ae474e8b05ed41e36d6f58382a9fbfb4b672c4		branch 'master' of https://github.com/hrsh7th/vim-vsnip-integ
+daf0f5ecfc573474bdd99e9dd7c6923a31dafb18	not-for-merge	branch 'add-manual-skip' of https://github.com/hrsh7th/vim-vsnip-integ
+2e64525aeef846baf33a20369e82dacc67c1b8c4	not-for-merge	branch 'asyncomplete' of https://github.com/hrsh7th/vim-vsnip-integ
+60dfb85f115de98204b35ecb731bd3c053ea53fc	not-for-merge	branch 'auto_expand_trial' of https://github.com/hrsh7th/vim-vsnip-integ
+0fa6c485c557423d3a4447a26870787d37abc7b6	not-for-merge	branch 'deoplete-lsp' of https://github.com/hrsh7th/vim-vsnip-integ
+a185fc07092b9965b55697a689cf376da569b328	not-for-merge	branch 'fix-deoplete' of https://github.com/hrsh7th/vim-vsnip-integ
+eb12ebddf52734562dd34e9daa50393914f94a21	not-for-merge	branch 'fix-remaining-completed-item' of https://github.com/hrsh7th/vim-vsnip-integ
+371b1a7a6b826e7b1e2803bb278f84167c0d37f2	not-for-merge	branch 'language-client-neovim' of https://github.com/hrsh7th/vim-vsnip-integ
+14486e20197f9ec12b896ddc42dcce08aefe067e	not-for-merge	branch 'new-vim-lsp' of https://github.com/hrsh7th/vim-vsnip-integ
+1d49f96976cb2b067457eedf25adda58003e9edd	not-for-merge	branch 'nvim-lsp' of https://github.com/hrsh7th/vim-vsnip-integ
+f2111b9fce0aa0447336b5f6c88a7bc02299d0f0	not-for-merge	branch 'set-capability' of https://github.com/hrsh7th/vim-vsnip-integ
+d97f7dd84f8a06e66d424616e750706ba7248b5c	not-for-merge	branch 'stop-compe' of https://github.com/hrsh7th/vim-vsnip-integ
+c29a58f9caa7516b2da4952681967d204ea4ad9c	not-for-merge	branch 'vim-lsp' of https://github.com/hrsh7th/vim-vsnip-integ

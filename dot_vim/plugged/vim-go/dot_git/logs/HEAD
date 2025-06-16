@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 b7506c6da8ea3a88e268a91aa6630be3e26a20a9 Achim Stoessl <stoessl@hawaii.edu> 1657815797 -1000	clone: from https://github.com/fatih/vim-go.git
+b7506c6da8ea3a88e268a91aa6630be3e26a20a9 11752f23743ac55ffa8b0662ae480ebfb0dc855a Achim Stoessl <stoessl@hawaii.edu> 1657815797 -1000	checkout: moving from master to v1.26-rc.1
+11752f23743ac55ffa8b0662ae480ebfb0dc855a 1d641b739624199ab9ab745d220f36fe7b655d65 Achim Stoessl <achim.stoessl@gmail.com> 1750103798 -1000	checkout: moving from 11752f23743ac55ffa8b0662ae480ebfb0dc855a to v1.29-rc.1
